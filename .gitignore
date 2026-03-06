@@ -1,0 +1,9 @@
+Library/
+Logs/
+UserSettings/
+FlappyBirdGame.app/
+.DS_Store
+Temp/
+Obj/
+Build/
+Builds/
